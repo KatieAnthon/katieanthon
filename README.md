@@ -27,9 +27,6 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-
-![GitHub Readme Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=katieAnthon)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katieAnthon&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
