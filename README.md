@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 </div>
 
 
-https://github-readme-streak-stats.herokuapp.com/?user=katieAnthon
+![GitHub Readme Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=katieAnthon)
 
 
 
