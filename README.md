@@ -30,5 +30,8 @@ Here are some ideas to get you started:
 
 ![GitHub Readme Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=katieAnthon)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katieAnthon&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
