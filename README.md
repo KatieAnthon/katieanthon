@@ -4,16 +4,13 @@
 **KatieAnthon/katieanthon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+- 🔭 I'm a recent graduate from Makers Academy, where i speciialised in the Software Engineering Full-Stack track
+- 🌱 I’m currently learning Python, JavaScript and Swift
+- 🤔 I’m looking for roles as a Junior Full-stack engineer
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/katie-rose-anthonisz-350871131?originalSubdomain=uk" target="_blank">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>
+</a>
 
 ### :hammer_and_wrench: Languages and Tools I know :
 <div>
@@ -45,7 +42,7 @@ Here are some ideas to get you started:
 
   </div>
   
-Languages and Tools that I'd like to learn:
+### :hammer_and_wrench: Languages and Tools that I'd like to learn:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original.svg" title="Elastic Search" **alt="Git" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" **alt="Git" width="40" height="40"/>
