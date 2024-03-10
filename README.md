@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" **alt="Git" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" title="AWS" **alt="Git" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" **alt="Git" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/tree/master/icons/django" title="Django" **alt="Git" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" **alt="Git" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular" **alt="Git" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" **alt="Git" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" **alt="Git" width="40" height="40"/>
