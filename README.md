@@ -1,16 +1,22 @@
-### Hi there 👋
+
 
 <!--
 **KatieAnthon/katieanthon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
-- 🔭 I'm a recent graduate from Makers Academy, where i speciialised in the Software Engineering Full-Stack track
-- 🌱 I’m currently learning Python, JavaScript and Swift
-- 🤔 I’m looking for roles as a Junior Full-stack engineer
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/katie-rose-anthonisz-350871131?originalSubdomain=uk" target="_blank">
+
+### 👋 Hi, I'm Katie, a Full-Stack Developer
+
+- 🎓 Former biochemistry graduate turned full-stack software engineer. I'm an ex-data analyst and recent graduate from Makers Academy, currently transitioning into the exciting world of full-stack development.
+- 🔭 I’m currently working on multiple projects, exploring new technologies, and honing my skills.
+- 🌱 I’m passionate about continuous learning and thrive on challenges. I'm actively seeking roles as a Junior Full-stack Engineer, where I can apply my problem-solving skills and contribute to innovative projects.
+- 🚀 Projects: Check out some of my projects on my profile!
+  <div>
+<a href="https://www.linkedin.com/in/katie-rose-anthonisz-350871131?originalSubdomain=uk" target="_blank">
   <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>
 </a>
+</div>
 
 ### :hammer_and_wrench: Languages and Tools I know :
 <div>
