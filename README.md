@@ -12,6 +12,9 @@ Here are some ideas to get you started:
 - 🔭 I’m working on multiple projects, exploring new technologies, and honing my skills.
 - 🌱 I’m passionate about continuous learning and thrive on challenges. I'm actively seeking roles as a Junior Full-stack Engineer, where I can apply my problem-solving skills and contribute to innovative projects.
 - 🚀 Check out some of my projects on my profile!
+- Check out my background:
+<div>
+  <a href="https://github.com/KatieAnthon/CV" > CV </a>
 - 📩 Reach out to me on:
   <div>
 <a href="https://www.linkedin.com/in/katie-rose-anthonisz-350871131?originalSubdomain=uk" target="_blank">
