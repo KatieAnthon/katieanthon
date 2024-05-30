@@ -5,8 +5,10 @@
 
 Here are some ideas to get you started:
 -->
+## Hi there! I'm Katie-Rose
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### 👋 Hi there! I'm Katie-Rose, a Full-Stack Developer
+#### A bit about me...
 
 - 🎓 Former biochemistry graduate turned full-stack software engineer. I'm an ex-data analyst and recent graduate from Makers Academy, currently transitioning into the exciting world of full-stack development.
 - 🔭 I’m working on multiple projects, exploring new technologies, and honing my skills.
