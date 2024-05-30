@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-## <div align="center">Hi there! I'm [Katie-Rose](www.linkedin.com/in/katie-rose-anthonisz-350871131) <img src="[hon-original-wordmark.svg](https://myoctocat.com/assets/images/base-octocat.svg)" title="cat" **alt="Git" width="40" height="40"/> ()
+## <div align="center">Hi there! I'm [Katie-Rose](www.linkedin.com/in/katie-rose-anthonisz-350871131) <img src="https://myoctocat.com/assets/images/base-octocat.svg" title="cat" **alt="Git" width="40" height="40"/> 
 
 <div>
 
