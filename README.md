@@ -5,7 +5,9 @@
 
 Here are some ideas to get you started:
 -->
-## <div align="center">Hi there! I'm [Katie-Rose](www.linkedin.com/in/katie-rose-anthonisz-350871131)<div>
+## <div align="center">Hi there! I'm [Katie-Rose](www.linkedin.com/in/katie-rose-anthonisz-350871131) [](https://myoctocat.com/assets/images/base-octocat.svg)
+
+<div>
 
 #### A bit about me...
 
