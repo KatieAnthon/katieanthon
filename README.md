@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-## <div align="center">Hi there! I'm Katie-Rose<div>
+## <div align="center">Hi there! I'm [Katie-Rose](www.linkedin.com/in/katie-rose-anthonisz-350871131)<div>
 
 #### A bit about me...
 
