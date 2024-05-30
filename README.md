@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </a>
 </div>
 
-### :hammer_and_wrench: Languages and Tools I know :
+#### :hammer_and_wrench: some languages and tools I know :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -51,18 +51,7 @@ Here are some ideas to get you started:
 
   </div>
   
-### :hammer_and_wrench: Languages and Tools that I'd like to learn:
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original.svg" title="Elastic Search" **alt="Git" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" **alt="Git" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" title="AWS" **alt="Git" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" **alt="Git" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" **alt="Git" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular" **alt="Git" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" **alt="Git" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" **alt="Git" width="40" height="40"/>
 
-</div>
 
 
 
