@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 🚀 Check out some of my projects on my profile!
 - Check out my background in my <a href="https://github.com/KatieAnthon/CV" > CV! </a>
 - 📩 Reach out to me on:
-  <div>
+  <div align="center">
 <a href="https://www.linkedin.com/in/katie-rose-anthonisz-350871131?originalSubdomain=uk" target="_blank">
   <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>
 </a>
