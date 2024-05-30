@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 🌱 I’m passionate about continuous learning and thrive on challenges. I'm actively seeking roles as a Junior Full-stack Engineer, where I can apply my problem-solving skills and contribute to innovative projects.
 - 🚀 Check out some of my projects on my profile!
 - Check out my background in my <a href="https://github.com/KatieAnthon/CV" > CV! </a>
-- 📩 Reach out to me on:
   <div align="center">
 <a href="https://www.linkedin.com/in/katie-rose-anthonisz-350871131?originalSubdomain=uk" target="_blank">
   <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>
@@ -58,12 +57,12 @@ Here are some ideas to get you started:
 ### <div align="center"> 📊 My Stats: <div>
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=katieAnthon&theme=buefy-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=katieAnthon&theme=default)](https://git.io/streak-stats)
 
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katieAnthon&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katieAnthon&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
