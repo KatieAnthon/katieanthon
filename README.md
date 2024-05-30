@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </a>
 </div>
 
-#### :hammer_and_wrench: some languages and tools I know :
+#### <div align="center">:hammer_and_wrench: some languages and tools I know : <div>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 
 
-### 📊 My Stats: 
+### <div align="center"> 📊 My Stats: <div>
 <div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=katieAnthon&theme=buefy-dark)](https://git.io/streak-stats)
