@@ -6,8 +6,6 @@
 Here are some ideas to get you started:
 -->
 ## <div align="center">Hi there! I'm [Katie-Rose](www.linkedin.com/in/katie-rose-anthonisz-350871131) 
-</div>
-<div align="center">
 
   ![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3JidzR0bTdyZG9odm56YjBvNzRmdWNnemJrdTZidHB2Z21sN3V0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bcKmIWkUMCjVm/giphy.gif)
 </div>
