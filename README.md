@@ -6,9 +6,9 @@
 Here are some ideas to get you started:
 -->
 ## <div align="center">Hi there! I'm [Katie-Rose](www.linkedin.com/in/katie-rose-anthonisz-350871131) 
-<div> 
+
 ![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
-</div>
+
 
 
 <div>
