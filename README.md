@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3JidzR0bTdyZG9odm56YjBvNzRmdWNnemJrdTZidHB2Z21sN3V0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bcKmIWkUMCjVm/giphy.gif) 
+![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTE2aXZiMmtubTZxODF1cDQwd2E0bWhremZpbzl5aTM1ZHNnemRxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cs4sYXzu12r2usTdqV/giphy.gif) 
 </div>
 
 #### A bit about me...
