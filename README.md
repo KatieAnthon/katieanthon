@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 </a>
 </div>
 
-### <div align="center"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3NqNWxqeW5udWs1dHZqM3M1d2duZm9wYTY3bTBmeGticXFmd2RvaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jSKBmKkvo2dPQQtsR1/giphy.gif" width="50" height="70"/> Some languages and tools I know : <div>
+### <div align="center"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3NqNWxqeW5udWs1dHZqM3M1d2duZm9wYTY3bTBmeGticXFmd2RvaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jSKBmKkvo2dPQQtsR1/giphy.gif" width="50" height="40"/> Some languages and tools I know : <div>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -57,7 +57,7 @@ Here are some ideas to get you started:
   </div>
   
 
-### <div align="center"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3l3aHNuZXZ2ZGRncGlqcmFtbHF3ZHd0dm56bGpnd2Vra3o3YnJhaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/AynUwd5uKhIevEWx54/giphy.gif" width="50" height="70"/> My Stats: <div>
+### <div align="center"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3l3aHNuZXZ2ZGRncGlqcmFtbHF3ZHd0dm56bGpnd2Vra3o3YnJhaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/AynUwd5uKhIevEWx54/giphy.gif" width="50" height="50"/> My Stats: <div>
 <div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=katieAnthon&theme=default)](https://git.io/streak-stats)
