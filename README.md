@@ -6,12 +6,13 @@
 Here are some ideas to get you started:
 -->
 ## <div align="center">Hi there! I'm [Katie-Rose](www.linkedin.com/in/katie-rose-anthonisz-350871131) 
-
-<iframe src="https://giphy.com/embed/bcKmIWkUMCjVm" width="480" height="348" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/animated-hello-waving-bcKmIWkUMCjVm">via GIPHY</a></p>
-
-
-
 <div>
+<iframe src="https://giphy.com/embed/bcKmIWkUMCjVm" width="480" height="348" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/animated-hello-waving-bcKmIWkUMCjVm">via GIPHY</a></p>
+</div>
+
+
+
+</div>
 
 #### A bit about me...
 
