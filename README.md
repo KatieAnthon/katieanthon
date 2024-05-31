@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 </a>
 </div>
 
-## <div > Some languages and tools I know <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3NqNWxqeW5udWs1dHZqM3M1d2duZm9wYTY3bTBmeGticXFmd2RvaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jSKBmKkvo2dPQQtsR1/giphy.gif" width="50" height="40"/>  <div>
+## <div > Some languages and tools I know <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGI4b2xqNTZoaXF5MnBnbTU1ZXN1eml0c3o4aWZjd2UxeTNyZmRnNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YswZffvIvv3SE/giphy.gif" width="50" height="40"/>  <div>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
