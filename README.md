@@ -57,10 +57,7 @@ Here are some ideas to get you started:
   </div>
   
 
-
-
-
-### <div align="center"> 📊 My Stats: <div>
+### <div align="center"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3l3aHNuZXZ2ZGRncGlqcmFtbHF3ZHd0dm56bGpnd2Vra3o3YnJhaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/AynUwd5uKhIevEWx54/giphy.gif" width="50" height="40"/> My Stats: <div>
 <div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=katieAnthon&theme=default)](https://git.io/streak-stats)
