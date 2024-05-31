@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 
 #### A bit about me...
 
-- 🎓 Former biochemistry graduate turned full-stack software engineer. I'm an ex-data analyst and recent graduate from Makers Academy, currently transitioning into the exciting world of full-stack development.
-- 🔭 I’m working on multiple projects, exploring new technologies, and honing my skills.
-- 🌱 I’m passionate about continuous learning and thrive on challenges. I'm actively seeking roles as a Junior Full-stack Engineer, where I can apply my problem-solving skills and contribute to innovative projects.
-- 🚀 Check out some of my projects on my profile!
-- Check out my background in my <a href="https://github.com/KatieAnthon/CV" > CV! </a>
+* 🎓 Former biochemistry graduate turned full-stack software engineer. I'm an ex-data analyst and recent graduate from Makers Academy, currently transitioning into the exciting world of full-stack development.
+* 🔭 I’m working on multiple projects, exploring new technologies, and honing my skills.
+* 🌱 I’m passionate about continuous learning and thrive on challenges. I'm actively seeking roles as a Junior Full-stack Engineer, where I can apply my problem-solving skills and contribute to innovative projects.
+* 🚀 Check out some of my projects on my profile!
+* Check out my background in my <a href="https://github.com/KatieAnthon/CV" > CV! </a>
   <div align="center">
 <a href="https://www.linkedin.com/in/katie-rose-anthonisz-350871131?originalSubdomain=uk" target="_blank">
   <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>
