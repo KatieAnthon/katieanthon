@@ -9,8 +9,8 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTE2aXZiMmtubTZxODF1cDQwd2E0bWhremZpbzl5aTM1ZHNnemRxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cs4sYXzu12r2usTdqV/giphy.gif" width="50" height="50"/>
   
-![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTE2aXZiMmtubTZxODF1cDQwd2E0bWhremZpbzl5aTM1ZHNnemRxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cs4sYXzu12r2usTdqV/giphy.gif) 
 </div>
 
 #### A bit about me...
