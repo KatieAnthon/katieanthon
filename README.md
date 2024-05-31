@@ -20,11 +20,13 @@ Here are some ideas to get you started:
 * 🌱 I’m passionate about continuous learning and thrive on challenges. I'm actively seeking roles as a Junior Full-stack Engineer, where I can apply my problem-solving skills and contribute to innovative projects.
 * 🚀 Check out some of my projects on my profile!
 * Check out my background in my <a href="https://github.com/KatieAnthon/CV" > CV! </a>
-  <div align="center">
-<a href="https://www.linkedin.com/in/katie-rose-anthonisz-350871131?originalSubdomain=uk" target="_blank">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>
-</a>
-</div>
+
+### Why Software Engineering?
+I have always enjoyed problem-solving and analytical thinking, from my early love of puzzles to seeking out opportunities in previous jobs where I could apply these skills.
+
+My transition began with streamlining processes in my previous roles. As I explored programming languages and scripting tools, I discovered their power and the creative ways they can solve a wide range of problems.
+
+What excites me most about this industry is its rapid growth and constant innovation, there is consistently exciting developments! I am particularly interested in the applications of AI and how it can be used as a force for good.
 
 ## <div > Some languages and tools I know <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGI4b2xqNTZoaXF5MnBnbTU1ZXN1eml0c3o4aWZjd2UxeTNyZmRnNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YswZffvIvv3SE/giphy.gif" width="50" height="40"/>  <div>
 <div align="center">
