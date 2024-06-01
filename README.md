@@ -64,13 +64,15 @@ What excites me most about this industry is its rapid growth and constant innova
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=katieAnthon&theme=default)](https://git.io/streak-stats)
 
-</details>
+
 
 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katieAnthon&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+
+</details>
 
 
 
