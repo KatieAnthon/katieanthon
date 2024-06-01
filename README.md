@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ### Why Software Engineering?
 I have always enjoyed problem-solving and analytical thinking, from my early love of puzzles to seeking out opportunities in previous jobs where I could apply these skills.
 
-My transition began with streamlining processes in my previous roles. As I explored programming languages and scripting tools, I discovered their power and the creative ways they can solve a wide range of problems.
+My transition began with streamlining processes in my previous roles. As I explored programming languages and scripting tools, I discovered their power and the creative ways they can solve a wide range of problems, particualy how they can be used to drive meaningful change. <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmp1MXY1ZGU0OHhwamhyNG11ZHg5ejVkd2hjNndyZXA3YjM1OTBqbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TdXStFmCNMAsQSzymu/giphy.gif" width="50" height="40"/>
 
 What excites me most about this industry is its rapid growth and constant innovation, there is consistently exciting developments! I am particularly interested in the applications of AI and how it can be used as a force for good.
 
