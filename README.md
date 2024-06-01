@@ -27,6 +27,14 @@ I have always enjoyed problem-solving and analytical thinking, from my early lov
 My transition began with streamlining processes in my previous roles. As I explored programming languages and scripting tools, I discovered their power and the creative ways they can solve a wide range of problems, particualy how they can be used to drive meaningful change. 
 What excites me most about this industry is its rapid growth and constant innovation, there is consistently exciting developments! I am particularly interested in the applications of AI and how it can be used as a force for good.
 
+## Some of my favourite projects...
+| Project | Description | Tech |
+|----------|----------|----------|
+| <a href="https://github.com/KatieAnthon/The_daily_grind_game"> The Daily Grind </a>| Created a Mini game app where users can sign in and build points in a chosen category. Points scored in each round of game play are used to eventually ‘level up’ the user. Games include Running game, Woodchopping game, Quiz game and Memory game. |	Backend: Python, Flask, PostgreSQL, Pytest Frontend: React, Pygame, PygameGUI, CSS|
+| <a href="https://github.com/KatieAnthon/Acebook"> AceBook App</a> | Led an Agile-driven team in refactoring a social media app, like Facebook, using the MERN stack. Developed CRUD features.| Backend: Node.js, Express.js, MongoDB Frontend: React (Hooks and state management), BootStrap, CSS, Jest|
+| <a href="https://github.com/KatieAnthon/The_Money_Tree">The Money Tree</a> | Building a budgeting finance App which allows users to log in and see categories where they are spending. Provides suggestions for saving.	| Backend: Java, SpringBoot Frontend: React Native, NativeWind (Tailwind), Jest |
+| <a href="https://github.com/KatieAnthon/KidKode-SheCanCode-Hackathon">International Women’s Day 12 Hour Power Hackathon - 2nd Place </a> | Kidkode - an application aimed to encourage children to code from primary school age. | Frontend: React, JavaScript |
+
 ## <div > Some languages and tools I know <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGI4b2xqNTZoaXF5MnBnbTU1ZXN1eml0c3o4aWZjd2UxeTNyZmRnNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YswZffvIvv3SE/giphy.gif" width="50" height="40"/>  <div>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Git" width="40" height="40"/>
