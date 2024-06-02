@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 * 🎓 Former biochemistry graduate turned full-stack software engineer. I'm an ex-data analyst and recent graduate from Makers Academy, currently transitioning into the exciting world of full-stack development.
 * 🔭 I’m working on multiple projects, exploring new technologies, and honing my skills. Check out some of my projects below!
+* 📚 Currently working on my skills in Java, React, React Native and Python
 * 🌱 I’m passionate about continuous learning and thrive on challenges. I'm actively seeking roles as a Junior Full-stack Engineer, where I can apply my problem-solving skills and contribute to innovative projects.
 * Check out my background in my <a href="https://github.com/KatieAnthon/CV" > CV! </a>
 
